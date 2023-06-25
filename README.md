@@ -56,5 +56,11 @@ Here's an overview of my GitHub statistics:
 ![Repository Stats](https://img.shields.io/badge/dynamic/json?color=green&label=Repositories&query=%24.public_repos&url=https%3A%2F%2Fapi.github.com%2Fusers%2FLakshya0257) 
 [![](https://visitcount.itsvg.in/api?id=Lakshya0257&icon=0&color=0)](https://visitcount.itsvg.in)
 
+### 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=Lakshya0257&theme=nord&no-frame=true&no-bg=true&margin-w=4)
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
 
 Let's create something amazing together!
