@@ -16,7 +16,7 @@ Here are some of the projects I've worked on:
 
 Feel free to explore my repositories for more projects and code samples!
 
-##Languages and Tools
+## Languages and Tools
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-original.svg" title="Angular" alt="Angular" width="40" height="40"/>&nbsp;
