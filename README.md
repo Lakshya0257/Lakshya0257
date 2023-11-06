@@ -1,12 +1,11 @@
 <p align="center" >
-  <img src="https://www.lambdatest.com/resources/images/news24.gif" >
+  <img src="https://i.pinimg.com/originals/06/60/ef/0660efe82fa3da42ed56eef013171835.gif" >
 </p>
  
 
-# Hi there! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px>
+# Hey! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px>
 
-Welcome to my GitHub profile! I'm Lakshya, a passionate Flutter developer with experience in various web technologies such as Vue.js, Angular, Express, HTML, CSS, TypeScript, Node.js, and Flask.
-
+Myself Lakshya, a passionate developer and 3D enthusiast with experience in various web and android frameworks such as Vue.js, Angular, Solidjs, MERN, Nestjs, Postgresql and much more.
 
 ## 🔭 My Projects
 
@@ -31,32 +30,27 @@ Feel free to explore my repositories for more projects and code samples!
   <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" title="MongoDB" alt="MongoDB" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="TypeScript" alt="TypeScript" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg" title="Firebase" alt="Firebase" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML5" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/postgresql_src_logo_icon_170834.png" title="Postgresql" alt="Postgresql" width="40" height="40"/>&nbsp;
+  <img src="https://static-00.iconduck.com/assets.00/nestjs-icon-2048x2040-3rrvcej8.png" title="Nestjs" alt="Nestjs" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" title="Flutter" alt="Flutter" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/dart/dart-original.svg" title="Dart" alt="Dart" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
   <img src="https://w7.pngwing.com/pngs/914/758/png-transparent-github-social-media-computer-icons-logo-android-github-logo-computer-wallpaper-banner-thumbnail.png" title="GitHub" alt="GitHub" width="40" height="40"/>&nbsp;
   <img src="https://dl2.macupdate.com/images/icons256/18392.png?time=1658935459" title="Unity" alt="Unity" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg" title="CSS3" alt="CSS3" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" title="SCSS" alt="SCSS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-plain-wordmark.svg" title="Bootstrap" alt="Bootstrap" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="C++" alt="C++" width="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/blender/blender-original.svg" title="Blender" alt="Blender" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/blender/blender-original.svg" title="Blender" alt="Blender" width="40" height="40" href="www.google.com"/>
 </div>
 
 ## 📫 Let's Connect
-
-You can reach out to me through the following channels:
 
 - Email: lakshyabhati24@gmail.com
 - LinkedIn: [Lakshya0257](https://www.linkedin.com/in/lakshya-bhati-682787241/)
 
 ## GitHub Analytics <img src = "https://i.pinimg.com/originals/65/c4/f4/65c4f452571be1261e9c623f7da488ac.gif" width = 35px> 
-
-Here's an overview of my GitHub statistics:
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Lakshya0257&show_icons=true&count_private=true&hide=stars,issues&theme=dark)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lakshya0257&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
@@ -74,11 +68,6 @@ Here's an overview of my GitHub statistics:
 ### 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Lakshya0257&theme=nord&no-frame=true&no-bg=true&margin-w=4)
 
-
-
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 
 Let's create something amazing together!
