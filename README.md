@@ -1,8 +1,3 @@
-<p align="center" >
-  <img src="https://i.pinimg.com/originals/06/60/ef/0660efe82fa3da42ed56eef013171835.gif" >
-</p>
- 
-
 # Hey! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px>
 
 Myself Lakshya, a passionate developer and 3D enthusiast with experience in various web and android frameworks such as Vue.js, Angular, Solidjs, MERN, Nestjs, Postgresql and much more.
