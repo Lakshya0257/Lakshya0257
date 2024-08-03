@@ -112,16 +112,6 @@
   </a>
 </p>
 
-## 🎵 Now Playing
-
-[![Spotify](https://novatorem-lakshya0257.vercel.app/api/spotify)](https://open.spotify.com/user/YOUR_SPOTIFY_USER_ID)
-
-## 🐍 Contribution Graph
-
-<p align="center">
-  <img src="https://github.com/Lakshya0257/Lakshya0257/blob/output/github-contribution-grid-snake.svg" alt="snake">
-</p>
-
 ## 🔭 Featured Projects
 
 <div align="center">
@@ -145,5 +135,3 @@
   <img src="https://img.shields.io/github/followers/Lakshya0257?label=Followers&style=social" alt="GitHub Followers">
   <img src="https://img.shields.io/github/stars/Lakshya0257?label=Stars&style=social" alt="GitHub Stars">
 </div>
-
-<h3 align="center">💖 Thank you for visiting my profile! 🙏</h3>
